@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-inbox/ims-213-sp-2026-unreal-intro/","tags":["IMS213","tutorial"],"created":"2026-01-30T15:37:11.009-05:00","updated":"2026-01-30T16:56:19.885-05:00"}
+{"dg-publish":true,"permalink":"/10-inbox/ims-213-sp-2026-unreal-intro/","tags":["IMS213","tutorial"],"created":"2026-01-30T15:37:11.009-05:00","updated":"2026-01-30T17:08:25.350-05:00"}
 ---
 
 
@@ -37,6 +37,8 @@ They get HUGE; even a small experiment can become 5GB in size quickly, so you ne
 
 At the bottom of Library tab is your QUIXEL BRIDGE and FAB library. We'll worry about those later, but they'll eventually be VERY IMPORTANT.
 
+### Versions
+
 You can also see the versions of unreal you have installed.
 
 They get updated frequently. You may have 5.7.1 or 5.7.2. Minor point updates are generally bug fixes. FOR THE MOST PART, DO NOT UPDATE UNREAL UNLESS YOU NEED TO, especially in the middle of a project in the middle of the semester.
@@ -48,6 +50,8 @@ LOTS OF STUFF, most of it is very new. TRY IT! Experiment! That's the only way y
 For us:
 Click NEW PROJECT on LEFT.
 Click THIRD PERSON.
+
+### Where Things Are Stored
 
 NOW:
 
@@ -61,36 +65,52 @@ We'll come back
 Give proj meaningful name. No spaces, always letter first, always short. I go with dates in my names
 
 IMS213FirstDemoJan29
-Create, it'll compile
+Create, it'll compile as it launches Unreal Engine 5.7
+
+### Customizing Details in the Viewport
 
 This is the viewport.
 These are Viewport Buttons.
 
-Start with SCALABILITY
-REDUCE IT. Makes life easier.
-Now orange to alert you.
+Start with SCALABILITY button
+REDUCE IT to MIDDLE (or even LOW). Makes life easier.
+Now the button is orange to alert you.
+
+### Camera Bookmarks
 
 Start by storing camera position (VERY IMPORTANT)
 CTRL1 you'll see a note
 VeRY EASY TO GET LOST in 3D, you NEED these camera bookmarks.
+
+### Moving Around
 
 Move around in VIEWPORT.
 RIGHT MOUSE BUTTON
 MOVE MOUSE
 Look around
 
+#### Back to Camera 1
+
 Now jump back to CAM1 pos
 hit 1 on keyboard
+
+### More Movement
 
 NOW WITHOUT moving mouse
 RIGHT button + WASD
 RIGHT button + Q down
 RIGHT button + E up
 
+#### Back to Cam 1
+
 NOW go back to 1
+
+### Complex Movement
 
 NOW, like this is a 1st person shooter,
 RIGHT BUTTON + mouse move + WASD
+
+### Give This a Try
 
 Now go to hover above each corner of playground face center and set a camera bookmark. 2,3,4,and 5.
 
