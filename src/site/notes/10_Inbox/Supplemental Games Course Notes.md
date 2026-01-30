@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/10-inbox/supplemental-games-course-notes/","tags":["homepage","DG","gardenEntry"],"created":"2026-01-30T16:51:12.252-05:00","updated":"2026-01-30T16:56:13.680-05:00"}
+{"dg-publish":true,"permalink":"/10-inbox/supplemental-games-course-notes/","tags":["homepage","DG","gardenEntry"],"created":"2026-01-30T16:51:12.252-05:00","updated":"2026-01-30T16:58:23.792-05:00"}
 ---
 
 
-## Welcome to Prof. LeMasters' Course Notes
+## Prof. LeMasters' Course Notes
 
 The pages indexed here are course notes for IMS211, IMS213, and IMS384.
 
